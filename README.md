@@ -2,9 +2,6 @@
 
 Replication of Grinblatt, Masulis, and Titman (1984) analyzing the changing impacts of stock splits across historical and modern market environments.
 
-## Acknowledgments
-This quantitative analysis was developed collaboratively alongside my project partners, **Nick Favoriti** and **Nace Weigand**.
-
 ## Overview
 This repository contains a quantitative event study replicating the foundational methodology of Grinblatt, Masulis, and Titman (1984). A core focus of this project is evaluating how market reactions have evolved by comparing **pre-2000 and post-2000 sub-periods**. 
 
