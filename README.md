@@ -1,8 +1,6 @@
 # Stock-Split-Event-Study
 Replication of Grinblatt, Masulis, and Titman (1984) analyzing stock split impacts on modern data
 
-# Corporate Action Event Study: Stock Split Valuation Impacts
-
 ## Overview
 This repository contains a quantitative event study replicating the foundational methodology of Grinblatt, Masulis, and Titman (1984). The objective of this project is to analyze market efficiency and the short-term valuation impacts surrounding stock split announcements and ex-dates using modern historical data.
 
